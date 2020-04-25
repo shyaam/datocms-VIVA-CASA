@@ -23,15 +23,15 @@ export default class Footer extends Component {
             <div className="col-md-3  col-sm-12">
               <h4>Contact Us</h4>
               <div className="text-widget">
-                <span>12345 Little Lonsdale St, Melbourne</span>
-                Phone: <span>(123) 123-456 </span>
+                <span>VIVA CASA, Mayani Road, Vita 415 311</span>
+                Phone: <span>(91) 123-456-7890 </span>
                 E-Mail:
                 <span>
                   <span
                     className="__cf_email__"
                     data-cfemail="4e212828272d2b0e2b362f233e222b602d2123"
                   >
-                    [email&#160;protected]
+                    [email&#160;hello@vivacasa.in]
                   </span>
                 </span>
               </div>
@@ -64,7 +64,7 @@ export default class Footer extends Component {
           <div className="row">
             <div className="col-md-12">
               <div className="copyrights">
-                © {new Date().getUTCFullYear()} Listeo. All Rights Reserved.
+                © {new Date().getUTCFullYear()} VIVA CASA. All Rights Reserved.
               </div>
             </div>
           </div>
