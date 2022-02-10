@@ -17,7 +17,7 @@
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
-    "node-sass": "^4.8.3"
+    "node-sass": "^7.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
